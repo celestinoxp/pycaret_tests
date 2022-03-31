@@ -1,0 +1,145 @@
+Data,Hora,Casa,Fora,Golos Casa,Golos Fora,Ronda
+2021-11-26,20:15,Moreirense,Gil Vicente,2,2,Ronda 12
+2021-11-27,15:30,Famalicao,Portimonense,0,3,Ronda 12
+2021-11-27,18:00,Arouca,Boavista,2,1,Ronda 12
+2021-11-27,20:30,Belensenses,Benfica,0,7,Ronda 12
+2021-11-28,15:30,Maritimo,Pacos Ferreira,2,0,Ronda 12
+2021-11-28,18:00,Sporting,Tondela,2,0,Ronda 12
+2021-11-28,20:30,FC Porto,Vitoria SC,2,1,Ronda 12
+2021-11-29,20:15,Estoril,Santa Clara,2,2,Ronda 12
+2021-11-30,20:15,Braga,Vizela,4,1,Ronda 12
+2021-12-03,19:00,Portimonense,FC Porto,0,3,Ronda 13
+2021-12-03,21:15,Benfica,Sporting,1,3,Ronda 13
+2021-12-04,18:00,Boavista,Maritimo,1,1,Ronda 13
+2021-12-04,20:30,Pacos Ferreira,Vitoria SC,1,2,Ronda 13
+2021-12-05,15:30,Santa Clara,Arouca,2,1,Ronda 13
+2021-12-05,18:00,Gil Vicente,Famalicao,4,0,Ronda 13
+2021-12-05,20:30,Braga,Estoril,2,0,Ronda 13
+2021-12-10,20:15,Pacos Ferreira,Gil Vicente,0,1,Ronda 14
+2021-12-11,15:30,Maritimo,Santa Clara,4,1,Ronda 14
+2021-12-11,18:00,Vitoria SC,Tondela,5,2,Ronda 14
+2021-12-11,20:30,Sporting,Boavista,2,0,Ronda 14
+2021-12-12,15:30,Belensenses,Estoril,0,1,Ronda 14
+2021-12-12,15:30,Moreirense,Portimonense,0,1,Ronda 14
+2021-12-12,18:00,Famalicao,Benfica,1,4,Ronda 14
+2021-12-12,20:30,FC Porto,Braga,1,0,Ronda 14
+2021-12-13,20:15,Arouca,Vizela,1,4,Ronda 14
+2021-12-17,19:00,Santa Clara,Vitoria SC,1,0,Ronda 15
+2021-12-17,21:15,Estoril,Famalicao,2,2,Ronda 15
+2021-12-18,15:30,Portimonense,Arouca,1,1,Ronda 15
+2021-12-18,15:30,Tondela,Pacos Ferreira,0,1,Ronda 15
+2021-12-18,20:30,Gil Vicente,Sporting,0,3,Ronda 15
+2021-12-19,17:00,Benfica,Maritimo,7,1,Ronda 15
+2021-12-19,17:00,Boavista,Moreirense,1,0,Ronda 15
+2021-12-19,19:00,Vizela,FC Porto,0,4,Ronda 15
+2021-12-19,21:00,Braga,Belenenses,1,0,Ronda 15
+2021-12-28,17:00,Tondela,Gil Vicente,0,3,Ronda 16
+2021-12-28,19:00,Maritimo,Vizela,2,0,Ronda 16
+2021-12-28,21:00,Moreirense,Estoril,1,0,Ronda 16
+2021-12-29,19:00,Vitoria SC,Boavista,1,1,Ronda 16
+2021-12-29,21:00,Sporting,Portimonense,3,2,Ronda 16
+2021-12-30,17:00,Pacos Ferreira,Santa Clara,2,1,Ronda 16
+2021-12-30,19:00,Arouca,Braga,0,6,Ronda 16
+2021-12-30,21:00,FC Porto,Benfica,3,1,Ronda 16
+2022-01-02,18:30,Vizela,Belenenses,2,0,Ronda 13
+2022-01-03,20:15,Tondela,Moreirense,2,1,Ronda 13
+2022-01-07,18:30,Santa Clara,Sporting,3,2,Ronda 17
+2022-01-08,15:30,Vizela,Moreirense,0,1,Ronda 17
+2022-01-08,18:00,Estoril,FC Porto,2,3,Ronda 17
+2022-01-08,20:30,Boavista,Tondela,1,1,Ronda 17
+2022-01-09,15:30,Portimonense,Maritimo,1,2,Ronda 17
+2022-01-09,18:00,Benfica,Pacos Ferreira,2,0,Ronda 17
+2022-01-09,18:00,Braga,Famalicao,2,2,Ronda 17
+2022-01-09,20:30,Belensenses,Arouca,2,1,Ronda 17
+2022-01-10,20:15,Gil Vicente,Vitoria SC,3,2,Ronda 17
+2022-01-13,18:00,Famalicao,Belenenses,1,0,Ronda 16
+2022-01-15,15:30,Boavista,Gil Vicente,1,1,Ronda 18
+2022-01-15,18:00,Benfica,Moreirense,1,1,Ronda 18
+2022-01-15,18:00,Braga,Maritimo,0,1,Ronda 18
+2022-01-16,15:30,Santa Clara,Tondela,2,2,Ronda 18
+2022-01-16,18:00,Vizela,Sporting,0,2,Ronda 18
+2022-01-16,18:30,Famalicao,Pacos Ferreira,0,0,Ronda 18
+2022-01-16,20:30,Belensenses,FC Porto,1,4,Ronda 18
+2022-01-17,20:15,Portimonense,Vitoria SC,1,1,Ronda 18
+2022-01-21,19:00,Arouca,Benfica,0,2,Ronda 19
+2022-01-21,21:15,Pacos Ferreira,Boavista,1,1,Ronda 19
+2022-01-22,15:30,Moreirense,Santa Clara,0,2,Ronda 19
+2022-01-22,18:00,Tondela,Vizela,2,3,Ronda 19
+2022-01-22,20:30,Sporting,Braga,1,2,Ronda 19
+2022-01-23,15:30,Maritimo,Belenenses,1,1,Ronda 19
+2022-01-23,15:30,Vitoria SC,Estoril,3,1,Ronda 19
+2022-01-23,18:00,Gil Vicente,Portimonense,1,0,Ronda 19
+2022-01-23,20:30,FC Porto,Famalicao,3,1,Ronda 19
+2022-01-27,20:15,Estoril,Arouca,1,2,Ronda 18
+2022-01-30,15:30,Portimonense,Tondela,1,2,Ronda 20
+2022-01-30,15:30,Vizela,Vitoria SC,3,2,Ronda 20
+2022-01-30,18:00,Braga,Moreirense,2,0,Ronda 20
+2022-01-30,20:30,FC Porto,Maritimo,2,1,Ronda 20
+2022-01-31,19:00,Estoril,Pacos Ferreira,0,0,Ronda 20
+2022-01-31,21:15,Famalicao,Arouca,0,0,Ronda 20
+2022-02-01,20:15,Santa Clara,Boavista,2,1,Ronda 20
+2022-02-02,19:00,Benfica,Gil Vicente,1,2,Ronda 20
+2022-02-02,20:45,Belensenses,Sporting,1,4,Ronda 20
+2022-02-05,15:30,Maritimo,Estoril,0,0,Ronda 21
+2022-02-05,18:00,Pacos Ferreira,Portimonense,1,1,Ronda 21
+2022-02-05,20:30,Vitoria SC,Braga,2,1,Ronda 21
+2022-02-06,15:30,Boavista,Vizela,2,2,Ronda 21
+2022-02-06,15:30,Gil Vicente,Santa Clara,2,2,Ronda 21
+2022-02-06,18:00,Arouca,FC Porto,0,2,Ronda 21
+2022-02-06,20:30,Sporting,Famalicao,2,0,Ronda 21
+2022-02-07,19:00,Tondela,Benfica,1,3,Ronda 21
+2022-02-07,21:15,Moreirense,Belenenses,4,1,Ronda 21
+2022-02-11,20:15,FC Porto,Sporting,2,2,Ronda 22
+2022-02-12,15:30,Braga,Pacos Ferreira,2,1,Ronda 22
+2022-02-12,18:00,Benfica,Santa Clara,2,1,Ronda 22
+2022-02-12,18:00,Portimonense,Boavista,1,1,Ronda 22
+2022-02-12,20:30,Estoril,Tondela,1,0,Ronda 22
+2022-02-13,15:30,Famalicao,Moreirense,5,0,Ronda 22
+2022-02-13,18:00,Belensenses,Vitoria SC,1,0,Ronda 22
+2022-02-13,20:30,Vizela,Gil Vicente,0,1,Ronda 22
+2022-02-14,20:15,Arouca,Maritimo,0,3,Ronda 22
+2022-02-18,20:15,Boavista,Benfica,2,2,Ronda 23
+2022-02-19,15:30,Gil Vicente,Belenenses,2,0,Ronda 23
+2022-02-19,18:00,Pacos Ferreira,Vizela,2,1,Ronda 23
+2022-02-19,20:30,Vitoria SC,Arouca,1,3,Ronda 23
+2022-02-20,15:30,Maritimo,Famalicao,0,1,Ronda 23
+2022-02-20,18:00,Sporting,Estoril,3,0,Ronda 23
+2022-02-20,20:00,Moreirense,FC Porto,0,1,Ronda 23
+2022-02-20,20:45,Tondela,Braga,0,1,Ronda 23
+2022-02-21,20:15,Santa Clara,Portimonense,1,1,Ronda 23
+2022-02-25,20:15,Belensenses,Pacos Ferreira,0,2,Ronda 24
+2022-02-26,15:30,Famalicao,Tondela,2,1,Ronda 24
+2022-02-26,18:00,Maritimo,Sporting,1,1,Ronda 24
+2022-02-26,20:30,Arouca,Moreirense,1,1,Ronda 24
+2022-02-27,15:30,Vizela,Portimonense,1,1,Ronda 24
+2022-02-27,18:00,Benfica,Vitoria SC,3,0,Ronda 24
+2022-02-27,18:00,Estoril,Boavista,2,3,Ronda 24
+2022-02-27,20:30,FC Porto,Gil Vicente,1,1,Ronda 24
+2022-02-28,20:15,Braga,Santa Clara,0,0,Ronda 24
+2022-03-04,20:15,Gil Vicente,Estoril,0,0,Ronda 25
+2022-03-05,15:30,Boavista,Braga,1,1,Ronda 25
+2022-03-05,18:00,Portimonense,Benfica,1,2,Ronda 25
+2022-03-05,20:30,Sporting,Arouca,2,0,Ronda 25
+2022-03-06,15:30,Moreirense,Maritimo,0,1,Ronda 25
+2022-03-06,18:00,Pacos Ferreira,FC Porto,2,4,Ronda 25
+2022-03-06,20:30,Santa Clara,Vizela,3,1,Ronda 25
+2022-03-06,20:30,Vitoria SC,Famalicao,2,1,Ronda 25
+2022-03-07,20:15,Tondela,Belenenses,1,1,Ronda 25
+2022-03-11,20:15,Benfica,Vizela,1,1,Ronda 26
+2022-03-12,15:30,Estoril,Portimonense,2,0,Ronda 26
+2022-03-12,15:30,Famalicao,Santa Clara,0,0,Ronda 26
+2022-03-12,18:00,Arouca,Pacos Ferreira,0,1,Ronda 26
+2022-03-12,20:30,Belensenses,Boavista,0,0,Ronda 26
+2022-03-13,15:30,Maritimo,Vitoria SC,0,1,Ronda 26
+2022-03-13,18:00,FC Porto,Tondela,4,0,Ronda 26
+2022-03-13,20:30,Braga,Gil Vicente,0,1,Ronda 26
+2022-03-14,20:15,Moreirense,Sporting,0,2,Ronda 26
+2022-03-18,20:15,Vizela,Famalicao,1,1,Ronda 27
+2022-03-19,15:30,Tondela,Arouca,2,2,Ronda 27
+2022-03-19,18:00,Santa Clara,Belenenses,0,0,Ronda 27
+2022-03-19,20:30,Vitoria SC,Sporting,1,3,Ronda 27
+2022-03-20,15:30,Gil Vicente,Maritimo,1,1,Ronda 27
+2022-03-20,15:30,Pacos Ferreira,Moreirense,2,1,Ronda 27
+2022-03-20,18:00,Benfica,Estoril,2,1,Ronda 27
+2022-03-20,20:00,Portimonense,Braga,1,2,Ronda 27
+2022-03-20,20:45,Boavista,FC Porto,,,Ronda 27
